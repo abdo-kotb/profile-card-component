@@ -12,6 +12,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -60,6 +61,10 @@ I struggled a bit finding a way to responsively adjust the position of the backg
 - Github - [abdo-kotb](github.com/abdo-kotb)
 - [Linkedin](https://www.linkedin.com/in/abdulrhman-mohammed-5687781b5/)
 - Frontend Mentor - [@abdo-kotb](https://www.frontendmentor.io/profile/abdo-kotb)
+
+## Acknowledgments
+
+Thanks a lot to [Jeffrey Izelaar](https://github.com/Astrobean/) for helping me understand the function of relative units. His valuable suggestions helped me with positioning the background icons to the best I could.
 
 Abdulrhman Kotb
 
